@@ -1,0 +1,14 @@
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/bin/Debug/BinarySearch.exe.mdb
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/bin/Debug/BinarySearch.exe
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/obj/x86/Debug/BinarySearch.exe
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/obj/x86/Debug/BinarySearch.exe.mdb
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/bin/Debug/SearchLibrary.dll
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/TUI/bin/Debug/SearchLibrary.dll.mdb
+/Users/Petie/Projects/BinarySearch/TUI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Petie/Projects/BinarySearch/TUI/bin/Debug/BinarySearch.exe.mdb
+/Users/Petie/Projects/BinarySearch/TUI/bin/Debug/BinarySearch.exe
+/Users/Petie/Projects/BinarySearch/TUI/obj/x86/Debug/BinarySearch.exe
+/Users/Petie/Projects/BinarySearch/TUI/obj/x86/Debug/BinarySearch.exe.mdb
+/Users/Petie/Projects/BinarySearch/TUI/bin/Debug/SearchLibrary.dll
+/Users/Petie/Projects/BinarySearch/TUI/bin/Debug/SearchLibrary.dll.mdb

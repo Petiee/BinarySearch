@@ -1,0 +1,10 @@
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/Library/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/Library/bin/Debug/SearchLibrary.dll.mdb
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/Library/bin/Debug/SearchLibrary.dll
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/Library/obj/Debug/SearchLibrary.dll
+/Users/Petie/Desktop/University/2. Semester/SU/Uge 2/BinarySearch/Library/obj/Debug/SearchLibrary.dll.mdb
+/Users/Petie/Projects/BinarySearch/Library/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Petie/Projects/BinarySearch/Library/bin/Debug/SearchLibrary.dll.mdb
+/Users/Petie/Projects/BinarySearch/Library/bin/Debug/SearchLibrary.dll
+/Users/Petie/Projects/BinarySearch/Library/obj/Debug/SearchLibrary.dll
+/Users/Petie/Projects/BinarySearch/Library/obj/Debug/SearchLibrary.dll.mdb
