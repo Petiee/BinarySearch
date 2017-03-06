@@ -59,10 +59,11 @@ namespace Tests
         }
 
         [SetUp ()]
-        public void TestRunningTime ()
+        public IComparable[] SetUpRunningTime (int n)
         {
             Generator gen = new Generator ();
-            var sortedArray = (gen.NextArray (10, 10));
+            var sortedArray = (gen.NextArray (n, n));
+            return sortedArray;
         }
 
         [Test ()]
@@ -71,7 +72,15 @@ namespace Tests
         /// </summary>
         public void TestRunningTime () // fejler: specified cast is not valid
         {
-           
+            int _n = 1000;
+            Generator gen = new Generator ();
+            var sortedArray = (gen.NextArray (_n, _n));
+            ComparisonCountedInt [] _testArray = gen.ComparisonArray(sortedArray);
+            int _tmp = ComparisonCountedInt (_testArray);
+            int compCount = _testArray.
+            // int runtime = SetUpRunningTime (_n).comparisonCount;
+            int logruntime = ((int)Math.Ceiling (Math.Log (_n, 2.0)));
+
         }
 
         [Test ()]

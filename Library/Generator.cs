@@ -51,7 +51,7 @@ namespace Library
         }
 
         public IComparable [] NextArray (int size, int maxValue, Initializer initializer)
-        { 
+        {
             IComparable[] array = new IComparable[size]; // creates an Array with lenght of size.
 
             for (int i = 0; i < size; i++)
@@ -63,9 +63,16 @@ namespace Library
             return array;
         }
 
-        public ComparisonCountedInt [] ComparisonArray ()
+        public ComparisonCountedInt [] ComparisonArray (IComparable [] array)
         {
-            
+            int len = array.Length;
+            ComparisonCountedInt [] _array = new ComparisonCountedInt[len];
+            for (int i = 0; i < len; i++) 
+            {
+                var _foo = (ComparisonCountedInt) array[i];
+                _array [i] = _foo;
+            }
+            return _array;
         }
     }
 }
